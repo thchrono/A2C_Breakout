@@ -36,7 +36,7 @@ This project implements an **Advantage Actor-Critic (A2C)** agent to solve the B
 > The GIF shows the **best episode achieved by the agent** (score: 369).  
 > Only **one life** is displayed in the GIF to highlight optimal gameplay.
 
-**Note:** MP4/GIF export requires **FFmpeg installed**. Python packages alone (`matplotlib`, `gymnasium`, `torch`, `numpy`) are sufficient for training, plotting rewards, and in-memory animation.
+**Note:** MP4/GIF export requires **FFmpeg installed**. Python packages alone (`matplotlib`, `gym`, `torch`, `numpy`, `ale-py`, `stable-baselines3`) are sufficient for training, plotting rewards, and in-memory animation.
 
 ---
 
