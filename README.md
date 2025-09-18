@@ -3,7 +3,7 @@ This project implements an **Advantage Actor-Critic (A2C)** agent to solve the B
 ---
 
 ## Project Overview
-- **Environment:** BreakoutNoFrameskip-v4 (Gymnasium)  
+- **Environment:** BreakoutNoFrameskip-v4 (Gym)  
 - **Algorithm:** Advantage Actor-Critic (A2C)  
 - **State:** 4 stacked grayscale frames of 84×84 pixels  
 - **Actions:** 4 discrete actions (NOOP, FIRE, RIGHT, LEFT)  
